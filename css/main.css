@@ -350,11 +350,11 @@ header .sub-menu li a:hover {
   justify-content: center;
   align-items: center;
 }
-.section--pricing .card .cell.cell1 .btn {
+.section--pricing .card .cell1 .btn {
   height: 50px;
   font-size: 16px;
 }
-.section--pricing .card .cell.cell2 {
+.section--pricing .card .cell2 {
   font-size: 22px;
   font-weight: 300;
   line-height: 1.5;
